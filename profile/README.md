@@ -3,11 +3,9 @@
 - **Members:**
   - [Nuke](https://github.com/mininukefromfallout) 🇺🇸
   - [W20MC](https://github.com/w20mc1) 🇵🇱
-  - [Jamie](https://github.com/ripcheese12) 🇺🇸
   - [WoahGamer](https://github.com/WoahGamer) 🇦🇺
 
 - **Jobs:**
   - [Nuke](https://github.com/mininukefromfallout): Bot development and website development.
   - [W20MC](https://github.com/w20mc1): Bot development and website development.
-  - [Jamie](https://github.com/ripcheese12): Bot development. 
   - [WoahGamer](https://github.com/WoahGamer): Graphic designer and website development. 
