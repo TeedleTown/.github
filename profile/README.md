@@ -9,5 +9,5 @@
 - **Jobs:**
   - [Nuke](https://github.com/mininukefromfallout): Bot development and website development.
   - [W20MC](https://github.com/w20mc1): Bot development and website development.
-  - [isfshax](https://github.com/isfsha-x): WIP (gotta ask nuke for what job he has)
+  - [isfshax](https://github.com/isfsha-x): Website development.
   - [WoahGamer](https://github.com/WoahGamer): Graphic designer and website development.
